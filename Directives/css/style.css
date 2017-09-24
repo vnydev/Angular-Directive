@@ -1,0 +1,15 @@
+.main{
+    width: 100%;
+    height: 100%;
+}
+.productlist{
+    width: 10%;
+    margin: 5px;
+    height: 100%;
+    float: left;
+    text-align: center;
+    border-bottom: 5px solid green
+}
+.productlist h3{
+    font-size: 12px;
+}
